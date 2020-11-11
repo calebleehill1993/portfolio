@@ -72,6 +72,10 @@ margin: auto;
   text-align: center;
 }
 
+.copyrights {
+  margin: 60px auto 10px auto;
+}
+
 h1 {
     color: #4a494f;
     font-family: "Times New Roman";
@@ -99,4 +103,10 @@ p, ul {
 
 .home-about {
   font-size: 24px;
+}
+
+.link-center {
+  float: none;
+  margin: auto;
+  text-align: center;
 }
