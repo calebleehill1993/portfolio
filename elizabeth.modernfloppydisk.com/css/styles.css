@@ -8,6 +8,7 @@ h1 {
   color: #424242;
   font-size: 50px;
   margin: 20px auto 50px auto;
+  text-align: center;
 }
 
 .navbar-bg {
@@ -130,6 +131,7 @@ img.imageback {
 
 .copyrights {
   margin: 60px auto 10px auto;
+  text-align: center;
 }
 
 .link-center {
@@ -192,4 +194,10 @@ img.imageback {
 
 .max-width-300 {
   max-width: 300px;
+}
+
+.project-page-text {
+  margin: auto;
+  text-align: left;
+  text-indent: 30px;
 }
