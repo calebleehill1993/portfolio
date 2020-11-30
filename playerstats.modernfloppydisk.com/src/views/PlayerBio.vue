@@ -4,7 +4,7 @@
   <PlayerBio :player="player" />
 </div>
 <div class="github">
-  <a href="https://github.com/BYU-CS-260-Winter-2020/lab-3b-grocery-store-calebleehill1993">Github Classroom</a>
+  <a href="https://github.com/calebleehill1993/portfolio/tree/master/playerstats.modernfloppydisk.com">Github Classroom</a>
 </div>
 </div>
 </template>
