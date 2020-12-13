@@ -1,0 +1,9 @@
+Lab 1 - Photographers Website (lab1.modernfloppydisk.com)
+Creative 1 - Elizabeth's Website (elizabeth.modernfloppydisk.com)
+Lab 2 - weather app (weather.modernfloppydisk.com)
+Creative 2 - added Quote API to Elizabeth's Website
+Lab 3a - XKCD Browers using Vue (lab3a.modernfloppydisk.com)
+Lab 3b - Grocery Store (lab3b.modernfloppydisk.com)
+Creative 3 - Battle Botz Stats Website (playerstats.modernfloppydisk.com)
+Lab 4 - Museum of Ordinary objects (museum.modernfloppydisk.com)
+Creative 4 - caleb's portfolio (calebleehill.modernfloppydisk.com)
